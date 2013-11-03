@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\debug\assets" />
+    </dataSet>
+
+</merger>

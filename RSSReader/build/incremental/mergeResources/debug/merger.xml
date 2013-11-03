@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res" >
+            <file
+                name="ic_launcher"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="btn_manage_feeds" >Add rss
+                </string>
+                <string name="btn_refresh_feeds" >Refresh
+                </string>
+                <string name="feed_dialog_ok" >Add
+                </string>
+                <string name="feed_dialog_cancel" >Cancel
+                </string>
+                <string name="confirmDelete" >Yes
+                </string>
+                <string name="app_name" >RSS Reader
+                </string>
+                <string name="refuseDelete" >No
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="btn_add_feeds" >Add Rss
+                </string>
+                <string name="deleteRecord" >Delete?
+                </string>
+                <string name="feed_dialog_title" >Add Rss Address
+                </string>
+                <string name="removeFeed" >Remove Rss Feed
+                </string>
+            </file>
+            <file
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\values-sw600dp\dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="ic_action_ic_add_rss"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\drawable-hdpi\ic_action_ic_add_rss.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_ic_add_rss"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\drawable-xhdpi\ic_action_ic_add_rss.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_ic_add_rss"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\drawable-mdpi\ic_action_ic_add_rss.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_feed"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\drawable-hdpi\ic_action_feed.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_feed"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\drawable-xhdpi\ic_action_feed.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_feed"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\drawable-mdpi\ic_action_feed.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="feedactivity"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\layout\feedactivity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ic_action_add"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\drawable-hdpi\ic_action_add.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_add"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\drawable-mdpi\ic_action_add.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_add"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\drawable-xhdpi\ic_action_add.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="feed"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\menu\feed.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="feedsadapterview"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\layout\feedsadapterview.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ic_action_refresh"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\drawable-mdpi\ic_action_refresh.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\drawable-xxhdpi\ic_action_refresh.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\drawable-hdpi\ic_action_refresh.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\drawable-xhdpi\ic_action_refresh.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="listviewrowmain"
+                path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\main\res\layout\listviewrowmain.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Hello\AndroidStudioProjects\RSSReaderProject\RSSReader\src\debug\res" />
+    </dataSet>
+
+</merger>

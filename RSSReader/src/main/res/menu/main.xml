@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/bnt_refresh_feeds"
+            android:title="@string/btn_refresh_feeds"
+            android:orderInCategory="100"
+            android:showAsAction="always"
+            android:icon="@drawable/ic_action_refresh"/>
+    <item
+            android:id="@+id/bnt_manage_feeds"
+            android:title="@string/btn_manage_feeds"
+            android:orderInCategory="100"
+            android:showAsAction="always"
+            android:icon="@drawable/ic_action_feed"/>
+</menu>
