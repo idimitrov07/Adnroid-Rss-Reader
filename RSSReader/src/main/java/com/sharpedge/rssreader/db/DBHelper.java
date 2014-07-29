@@ -22,7 +22,7 @@ public class DBHelper extends SQLiteOpenHelper {
 
         sqLiteDatabase.execSQL("create table feeds" +
                 "( _id integer primary key autoincrement, feed_url text not null); ");
-        sqLiteDatabase.execSQL("create table item" +
+        sqLiteDatabase.execSQL("create table items" +
                 " ( _id integer primary key autoincrement, title text not null,description text not null,link text not null,quid text not null,date_time text not null );");
 
     }
